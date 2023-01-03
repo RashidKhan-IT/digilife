@@ -7,7 +7,7 @@ Just install one app and enjoy
 
 **AboutMe**
 
-- 🔭 I’m currently working in a Software Company here in Lahore as React Developer.
+
 - 🌱 I’m currently learning Node.Js
 - 💬 Ask me about Web Development using JQuery/React/PHP/MySql etc.
 - 📫 How to reach me: rashidjabbar456@gmail.com
